@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/box"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/btnplay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/play"
+            tools:layout_editor_absoluteX="80dp"
+            tools:layout_editor_absoluteY="184dp" />
+
+        <Button
+            android:id="@+id/btnranking"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="@string/ranking"
+            tools:layout_editor_absoluteX="202dp"
+            tools:layout_editor_absoluteY="70dp" />
+
+        <Button
+            android:id="@+id/btnquant"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/about"
+            tools:layout_editor_absoluteX="430dp"
+            tools:layout_editor_absoluteY="62dp" />
+
+        <Button
+            android:id="@+id/btnsettings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/settings"
+            tools:layout_editor_absoluteX="303dp"
+            tools:layout_editor_absoluteY="50dp" />
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

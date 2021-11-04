@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ArturVEx1</string>
+    <string name="name">Nombre</string>
+    <string name="email">Correo</string>
+    <string name="play">Jugar</string>
+    <string name="settings">Opciones</string>
+    <string name="about">Acerca de</string>
+    <string name="ranking">Posiciones</string>
+    <string name="developed">Programado por Artur Viader</string>
+    <string name="fotog">Elige una foto de la galería</string>
+    <string name="fotoc">Haz una foto con tu cámara</string>
+    <string name="descriptive">Esta es mi primera aplicación para android y es muy divertida.</string>
+    <string name="removep">Elimina la foto</string>
+    <string name="pickima">Selecciona una imagen</string>
+</resources>

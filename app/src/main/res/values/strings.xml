@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArturVEx1</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="play">Play</string>
+    <string name="ranking">Ranking</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="developed">Developed by Artur Viader</string>
+    <string name="fotog">Choose a photo from gallery</string>
+    <string name="fotoc">Take a photo with your camera</string>
+    <string name="descriptive">This is my first android app and it is very fun.</string>
+    <string name="removep">Remove photo</string>
+    <string name="pickima">Pick an image</string>
+</resources>
